@@ -1,0 +1,31 @@
+.elem{
+    div{
+        margin: 1rem 5%;
+        padding: 1rem;
+    }
+
+}
+
+.pictures{
+    margin: 1rem 20%;
+    border: 1px solid red;
+    font-size: 1.5vw;
+    color: purple;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    div{
+        background-color: gainsboro;
+        padding: 0.5rem;
+        margin: 0.5rem;
+    }
+}
+
+.board{
+ margin: 2rem 20%;
+ border: 2px solid green;
+ width: 60%;
+ height: 150px;
+ 
+}
